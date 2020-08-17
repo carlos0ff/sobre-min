@@ -19,9 +19,6 @@
   
 </p>
 
-<ul>
-  <li>Software Engineer at MyDrugs</li>
-  <li>Computer Science Student at Federal University of Pernambuco</li>
-</ul
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlos0ff&theme=radical)
