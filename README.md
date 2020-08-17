@@ -1,4 +1,26 @@
-<img src="https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero.png" width="950" height="220">
+<h1 align="center">
+  Hi, I'm Carlos
+</h1>
 
-<h3>Olá, me chamo José Carlos. E sou um <strong> Desenvolvedor PHP Júnior</strong> e atualmente, estou aprendendo mais sobre PHP e  Javascript em busca dos meus objetivos. E sempre buscando em aprendendo mais sobre segurança da informação e programação.</h3>
+--
+
+<p>
+
+<a href="https://twitter.com/SergioT45" >
+  <img src="https://img.shields.io/badge/-carlos0ff-1da1f2?style=flat-square&amp;labelColor=1da1f2&amp;logo=twitter&amp;logoColor=white&amp;&amp;link=https://twitter.com/carlos0ff"></a>
+
+<a href="mailto:carlosiilva66@gmail.com">
+
+ <img src="https://img.shields.io/badge/-carlos0ff-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:carlosiilva66@gmail.com" style="max-width:100%;">
+</a>
+
+<a href="https://www.linkedin.com/in/jos%C3%A9-carlos-0b1337180/" >
+  <img src="https://img.shields.io/badge/-carlos0ff-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jos%C3%A9-carlos-0b1337180/">
+</a>
   
+</p>
+<ul>
+  <li>Software Engineer at MyDrugs</li>
+  <li>Computer Science Student at Federal University of Pernambuco</li>
+</ul
+
