@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Hi, I'm Carlos
 </h1>
 
@@ -19,8 +19,10 @@
 </a>
   
 </p>
+
 <ul>
   <li>Software Engineer at MyDrugs</li>
   <li>Computer Science Student at Federal University of Pernambuco</li>
 </ul
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlos0ff&hide=contribs,prs)
