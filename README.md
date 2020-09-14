@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm Carlos
+  José Carlos
 </h1>
 <p>Tenho 19 anos, sou apaixonado por música, jogos e tecnologia. Eu amo programar em PHP e JS</p>
 
