@@ -1,9 +1,3 @@
-<h1>
-  José Carlos
-</h1>
-<p>Tenho 19 anos, sou apaixonado por música, jogos e tecnologia. Eu amo programar em PHP e JS</p>
-
-<p>
 
 <a href="https://twitter.com/carlos0ff" >
   <img src="https://img.shields.io/badge/-carlos0ff-1da1f2?style=flat-square&amp;labelColor=1da1f2&amp;logo=twitter&amp;logoColor=white&amp;&amp;link=https://twitter.com/carlos0ff"></a>
